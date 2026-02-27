@@ -1,0 +1,19 @@
+===== Habit Report =====
+
+Habit Name: Study 2 Hours
+Type: DAILY
+Target Frequency: 1
+Created At: 2026-02-15
+
+Current Streak: 1
+Longest Streak: 5
+Completion Percentage: 53.85%
+
+----- Logs -----
+2026-02-26 -> 3 (SUCCESS)
+2026-02-24 -> 1 (SUCCESS)
+2026-02-23 -> 1 (SUCCESS)
+2026-02-22 -> 2 (SUCCESS)
+2026-02-21 -> 1 (SUCCESS)
+2026-02-20 -> 2 (SUCCESS)
+2026-02-18 -> 1 (SUCCESS)
